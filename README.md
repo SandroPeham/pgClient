@@ -8,10 +8,6 @@ pgClient is an easy and fast tool to manage your PostgreSQL databases at home, a
 - View all your databases, simply by connecting the server. 
 - pgClient offers a powerful query editor to handle all your needs.
 
-NO IN-APP Purchases
-
-Buying pgClient offers the full package. You will never have to buy any additional stuff.
-
 NO ADS
 
 Of course, pgClient is completely free of advertisements.
